@@ -1,5 +1,17 @@
-nome = "victoria" #variaveis são objetos, "=" em python recebe
-idade = 19
-peso = 50
+idade: int
+salario: float
+altura: float
+genero: str
+nome: str
 
-print(nome,idade,peso)
+idade = 20
+salario = 1200
+altura = 1.71
+genero = 'F'
+nome = 'Victoria'
+
+print(f'idade = {idade}')
+print(f'salario = {salario:.2f}')
+print(f'altura = {altura:.2f}')
+print(f'genero = {genero}')
+print(f'nome = {nome}')
