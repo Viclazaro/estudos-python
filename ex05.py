@@ -1,8 +1,8 @@
-idade: int
+idade: int #apenas numeros inteiros
 salario: float
-altura: float
+altura: float #aceita numeros com decimais
 genero: str
-nome: str
+nome: str #conjunto de caracteres que formam um texto
 
 idade = 20
 salario = 1200
