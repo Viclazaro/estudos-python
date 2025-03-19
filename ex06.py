@@ -1,8 +1,8 @@
 # Crie duas variáveis que guarde dois números inteiros, e imprimar o quociente e o resto da divisão
 # inteira entre eles
 
-n1 = int(input('Digite um numero'))
-n2 =  int(input('Digite outro numero'))
+n1 = int(input('Digite um numero\n'))
+n2 =  int(input('Digite outro numero\n'))
 
 quociente = n1 // n2
 resto = n1 % n2
