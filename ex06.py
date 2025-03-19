@@ -1,4 +1,4 @@
-# Crie duas variáveis que guarde dois números inteiros, e imprimar o quociente e o resto da divisão
+# Crie duas variáveis que guarde e receba dois números inteiros, e imprimar o quociente e o resto da divisão
 # inteira entre eles
 
 n1 = int(input('Digite um numero\n'))
