@@ -4,6 +4,6 @@
 salario_atual = float(input('Qual é seu salário?\n'))
 
 salario_novo = salario_atual * 0.35
-salario_novo = salario_atual + salario_novo
+salario_novo = salario_atual + salario_novo #poderia utilizar salario_novo += salario_atual
 
 print(f'Seu novo salário é: {salario_novo:.2f}')
