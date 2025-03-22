@@ -1,4 +1,4 @@
-nome = input("Qual é o seu nome?") #entrada de dados = input
+nome = input("Qual é o seu nome?") #input() retorna uma string ou numero
 idade = input ("Qual é a sua idade?")
 
-print(nome, idade) # imprimir
+print(nome, idade) # exibe o resultado
