@@ -4,10 +4,10 @@ Bem-vindo ao meu repositório de estudos! Aqui organizo anotações, conceitos e
 
 ## Estrutura do Repositório
 
-- ```basic_exercises:``` Diretório contendo exercícios para prática dos conceitos aprendidos.
-- ```concepts:``` Notas sobre conceitos fundamentais da linguagem estudada.
-- ```README.md``` Este arquivo, que explica a estrutura e o objetivo do repositório.
-- ```start.py:``` Arquivo inicial para execução de códigos de teste.
+- ```basic_exercises``` → Diretório contendo exercícios para prática dos conceitos aprendidos.
+- ```concepts``` → Notas sobre conceitos fundamentais da linguagem estudada.
+- ```README.md``` → Este arquivo, que explica a estrutura e o objetivo do repositório.
+- ```start.py``` → Arquivo inicial para execução de códigos de teste.
 
 ## Objetivo
 
