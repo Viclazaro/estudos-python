@@ -5,9 +5,8 @@ tem_pet = True   # Booleano (True ou False)
 
 print(nome, idade, altura, tem_pet)
 
-#continuação
 
-# Definição de tipos de variáveis (anotação de tipo, não obrigatória)
+# 📌 Definição de tipos de variáveis (anotação de tipo, não obrigatória)
 idade: int  # Apenas números inteiros
 salario: float  # Números com casas decimais (ponto flutuante)
 altura: float  # Aceita números com decimais
