@@ -1,34 +1,32 @@
-nome = "Victoria"  # String (texto)
-idade = 19       # Inteiro (int)
-altura = 1.71    # Float (número decimal)
-tem_pet = True   # Booleano (True ou False)
+# Definição de variáveis e tipos de dados em Python
 
+# 📌 Variáveis simples sem anotação de tipo
+nome = "Victoria"  # String (texto)
+idade = 19         # Inteiro (int)
+altura = 1.71      # Float (número decimal)
+tem_pet = True     # Booleano (True ou False)
+
+# Exibindo as variáveis
 print(nome, idade, altura, tem_pet)
 
 
 # 📌 Definição de tipos de variáveis (anotação de tipo, não obrigatória)
 idade: int  # Apenas números inteiros
-salario: float  # Números com casas decimais (ponto flutuante)
-altura: float  # Aceita números com decimais
+salario: float  # Números com casas decimais
+altura: float  # Aceita números decimais
 genero: str  # Representa um caractere ou texto
 nome: str  # Conjunto de caracteres que formam um texto
 
 # Atribuição de valores às variáveis
-idade = 20  # Número inteiro
-salario = 1200  # Número decimal (float, mas sem casas decimais visíveis)
-altura = 1.71  # Número decimal (float)
-genero = 'F'  # Letra representando o gênero (string)
-nome = 'Victoria'  # Nome como string (texto)
+idade = 20  
+salario = 1200  
+altura = 1.71  
+genero = 'F'  
+nome = 'Victoria'  
 
-# Exibindo as variáveis usando f-strings para formatação moderna
-print(f'idade = {idade}')  # Exibe a idade normalmente
-
-# Exibe o salário com duas casas decimais
-print(f'salario = {salario:.2f}')  # {:.2f} força duas casas decimais
-
-# Exibe a altura com duas casas decimais
-print(f'altura = {altura:.2f}')  # {:.2f} força duas casas decimais
-
-# Exibe o gênero e o nome normalmente
-print(f'genero = {genero}')
-print(f'nome = {nome}')
+# Exibindo as variáveis com f-strings para melhor formatação
+print(f'Idade = {idade}')  
+print(f'Salário = {salario:.2f}')  # Mostra duas casas decimais
+print(f'Altura = {altura:.2f}')  # Mostra duas casas decimais
+print(f'Gênero = {genero}')
+print(f'Nome = {nome}')
