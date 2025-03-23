@@ -21,7 +21,7 @@ Se desejar contribuir, sinta-se à vontade para sugerir melhorias ou compartilha
 
 Caso queira trocar ideias ou discutir conceitos, entre em contato pelo meu perfil do GitHub!
 
----
 
-Espero que este README ajude a manter o repositório organizado e informativo!
+
+
 
