@@ -1,4 +1,4 @@
-#Crie um algoritmo que irá guardar em uma variável um número inteiro. O algoritmo deve imprimir o 
+# 3) Crie um algoritmo que irá guardar em uma variável um número inteiro. O algoritmo deve imprimir o 
 # antecessor e sucessor desse número
 
 num = 2

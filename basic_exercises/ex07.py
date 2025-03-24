@@ -1,4 +1,4 @@
-#Crie 3 variáveis para guardar três notas informadas por um aluno e exiba a sua média aritmética.
+# 7) Crie 3 variáveis para guardar três notas informadas por um aluno e exiba a sua média aritmética.
 
 nota1 = float(input('Digite a primeira nota:\n'))
 nota2 = float(input('Digite a  segunda nota:\n'))

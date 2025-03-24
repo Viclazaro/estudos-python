@@ -1,4 +1,4 @@
-#Escreva um programa que receba o salário de um funcionário (float), e retorne o resultado do novo 
+# 5) Escreva um programa que receba o salário de um funcionário (float), e retorne o resultado do novo 
 #salário com reajuste de 35% 
 
 salario_atual = float(input('Qual é seu salário?\n'))

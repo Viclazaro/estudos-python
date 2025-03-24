@@ -1,4 +1,4 @@
-#Crie uma variável que receba um valor que é pago por um produto, um segundo valor que é o preço do 
+# 4) Crie uma variável que receba um valor que é pago por um produto, um segundo valor que é o preço do 
 #produto e retorne em outra variável o troco a ser dado. Considere que o valor pago será igual ou maior 
 #que o valor do produto.
 
