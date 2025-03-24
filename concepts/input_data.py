@@ -15,7 +15,7 @@ input("mensagem") # input reconhece dados como str
 x = int(input("Digite um numero: ")) # caso eu queria receber um numero é necessario declarar o tipo de variavel
 x = float(input("Digite um numero: ")) # outro exemplo
 
-# exemplo
+# exemplo 1
 
 salario1: float; salario2: float
 nome1: str; nome2: str
