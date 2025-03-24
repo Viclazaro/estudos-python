@@ -13,7 +13,6 @@ Bem-vindo ao meu repositório de estudos! Aqui organizo anotações, conceitos e
 
 O objetivo deste repositório é armazenar e compartilhar meu progresso no aprendizado de programação. É um espaço para organização de materiais e desenvolvimento de habilidades através da prática.
 
-
 ## Contato
 
 Caso queira trocar ideias ou discutir conceitos, entre em contato pelo meu perfil do GitHub!
