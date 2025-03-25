@@ -5,6 +5,7 @@
 ## 📌Estrutura do Repositório
 
 - ```basic_exercises``` → Diretório contendo exercícios básicos para prática dos conceitos aprendidos.
+- ```elif_exercises``` → Dirétório contendo exercícios sobre if, else e elif em python.
 - ```concepts``` → Anotações sobre conceitos fundamentais de python.
 - ```README.md``` → Este arquivo, que explica a estrutura e o objetivo do repositório.
 - ```start.py``` → Arquivo inicial em python.
