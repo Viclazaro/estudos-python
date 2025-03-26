@@ -12,3 +12,35 @@
 #   FGTS (11%)                       : R$  121,00
 #    Total de descontos              : R$  165,00
 #    Salário Liquido                 : R$  935,00
+
+valor_hora = float(input('Informe o valor da sua hora: '))
+horas_trabalhadas = float(input('Informe a quantidade de horas trabalhadas no mês: '))
+
+
+salario_bruto = valor_hora * horas_trabalhadas
+
+if salario_bruto <= 900:
+    ir_percentual = 0  
+elif salario_bruto <= 1500:
+    ir_percentual = 5
+elif salario_bruto <= 2500:
+    ir_percentual = 10
+else:
+    ir_percentual = 20
+
+ir = (ir_percentual / 100) * salario_bruto
+inss = (10 / 100) * salario_bruto
+sindicato = (3 / 100) * salario_bruto
+fgts = (11 / 100) * salario_bruto  
+total_descontos = ir + inss + sindicato
+salario_liquido = salario_bruto - total_descontos
+
+print(f'''
+Salário Bruto: ({valor_hora:.2f} * {horas_trabalhadas:.0f})        : R$ {salario_bruto:.2f}
+(-) IR ({ir_percentual}%)                     : R$ {ir:.2f}
+(-) INSS (10%)                  : R$ {inss:.2f}
+(-) Sindicato (3%)              : R$ {sindicato:.2f}
+FGTS (11%)                      : R$ {fgts:.2f}
+Total de descontos              : R$ {total_descontos:.2f}
+Salário Líquido                 : R$ {salario_liquido:.2f}
+''')
