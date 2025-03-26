@@ -26,7 +26,7 @@ else:
     percentual = 5 
     
 aumento = (percentual/100) * salario_colaborador
-novo_salario = (percentual * salario_colaborador) + salario_colaborador
+novo_salario = aumento + salario_colaborador
 
 print(f'Salário original: {salario_colaborador:.2f}')
 print(f'Percentual de aumento aplicado: {percentual}%')
