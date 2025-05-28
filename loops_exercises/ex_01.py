@@ -1,3 +1,5 @@
+#WHILE enquanto
+
 x = int(input('Digite um número: '))
 soma = 0
 
