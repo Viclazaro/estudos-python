@@ -8,7 +8,7 @@
 - ```conditionals_exercises``` → Dirétório contendo exercícios sobre if, else e elif em python.
 - ```notes``` → Anotações sobre conceitos fundamentais de python.
 - ```README.md``` → Este arquivo, que explica a estrutura e o objetivo do repositório.
-- ```loops``` →  Exercícios com for, while e similares
+- ```loops_exercises``` →  Exercícios com for, while e similares
 - ```start.py``` → Arquivo inicial em python.
 
 ## 📌Objetivo
