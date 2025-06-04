@@ -8,6 +8,9 @@ num = int(input('Deseja ver qual tabuada? '))
 start = int(input('Deseja começar em: '))
 finish = int(input('A tabuada deve finalizar em: '))
 
-for i in range(start, finish+1):
-    conta = num * i
-    print(f'{num} x {i}')
+if(start < finish):
+    for i in range(start, finish+1):
+        conta = num * i
+        print(f'{num} x {i} = {conta}')
+else:
+    print('Valor inválido')
